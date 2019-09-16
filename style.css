@@ -80,7 +80,8 @@ p #legal {
 #legal {
 	padding: 3px 0px 3px 0px;
 	margin-top: 2px;
-	font-size: .5em;
+	font-size: .65em;
+	line-height: 1.2em;
 	border-top: 5px solid #000;	
 }
 
